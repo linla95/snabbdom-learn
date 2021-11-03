@@ -1,3 +1,6 @@
+## 主流程
+![img](https://github.dev/linla95/snabbdom-learn/blob/0f1446041acff5c1910157d1c2c27bddbf1838d1/src/assets/diff.drawio.png)
+
 ## snabbdom diff 算法
 
 ```
